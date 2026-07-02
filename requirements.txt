@@ -27,3 +27,5 @@ torchinfo
 tqdm
 
 pyyaml
+
+kagglehub
